@@ -858,7 +858,7 @@ h6,
 }
 
 .services-card:hover .services-card__icon {
-    fill: var(--color-whitef);
+    fill: var(--color-white-dark);
 }
 
 .services-card__head {
